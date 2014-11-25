@@ -10,6 +10,8 @@ gem 'jquery-rails'
 gem 'haml'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
+gem 'omniauth'
+gem 'omniauth-twitter'
 
 group :development, :test do
   gem 'sqlite3'
